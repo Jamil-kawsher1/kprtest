@@ -1,0 +1,36 @@
+.login-container {
+    padding: 20px;
+    background-color: coral;
+    /* margin: 20px auto; */
+    width: 500px;
+    height: 400px;
+
+}
+
+label {
+
+
+    display: block;
+}
+
+input {
+    margin-top: 5px;
+    display: block;
+    width: 90%;
+    padding: 5px;
+    /* width: 90%;
+
+    margin: 20px auto; */
+}
+
+.login-form {
+    width: 90%;
+
+}
+
+.parent {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
